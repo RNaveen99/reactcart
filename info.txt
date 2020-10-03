@@ -1,0 +1,3 @@
+This project seemed interesting to me.
+Recently I learned Vue.js .... so will be able to understand this project.
+After understanding it .... will try to make it more efficient and reusable in real life projects.

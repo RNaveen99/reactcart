@@ -1,0 +1,10 @@
+This is the third branch ... in continuation to dev1 branch and dev2 branch.
+
+As already mentioned ... dev1 branch will be used to introduce new features.
+ Dev2 branch will be used to develop those features .......
+ 
+ this branch ... i.e. dev3 will be used to integrate those features with the existing real time projects ....
+  
+  only after thorough debugging and passing through the testing phase.
+  
+  Also this will be used to get user rerviews .... improvements and many more .

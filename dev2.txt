@@ -1,0 +1,4 @@
+This branch is in continuous to dev1 branch.
+The new features introduced in dev1 branch will be integrated and tested regressly.
+
+The aim of this branch will be to find bugs, breakpoints, exceptions and efficiency.

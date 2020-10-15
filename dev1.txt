@@ -1,0 +1,3 @@
+This is first development branch.
+It will contain new features ... ie. beta version.
+New features will be introduced in this branch.

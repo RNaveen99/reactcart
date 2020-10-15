@@ -1,0 +1,12 @@
+This is the fourth and final branch ... in continuation to dev1 branch and dev2 branch and dev3 branch.
+
+As already mentioned ... dev1 branch will be used to introduce new features.
+ Dev2 branch will be used to develop those features .......
+ dev3 will be used to integrate those features with the existing real time projects ....
+   only after thorough debugging and passing through the testing phase and will be used to get user rerviews .... improvements and many more .
+ 
+ The aim of this branch i.e. dev4 is to release these new integrated features for all .
+ 
+ After passing through all the phases this branch will be merged to master branch .
+ 
+ Also this branch will be used to roll out previous stable versions incase the launched version is not stable or contain some critical bugs.
